@@ -14,7 +14,7 @@
     "ipfs-http-client": "^29.1.0",
     "popper.js": "^1.12.9",
     "vue": "^2.5.3",
-    "web3": "^1.0.0-beta.37"
+    "web3": "^1.6.0"
   },
   "devDependencies": {
     "autodll-webpack-plugin": "^0.4.2",
